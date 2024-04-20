@@ -1,0 +1,14 @@
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+
+.title{
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+;
+}
